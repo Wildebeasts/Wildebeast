@@ -1,4 +1,3 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1040843371842904125/1184770143906177064/Asset_9-100.jpg?ex=658d2e2e&is=657ab92e&hm=4514f226e1c9070cd83d642c9788b6846834df72526d180a70f020db9177de45&)
 <h1 align="center">Hi 👋, I'm Wildebeast</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
